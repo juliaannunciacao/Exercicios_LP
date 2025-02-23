@@ -1,8 +1,5 @@
 //Aula: 13/02/2025
-//Exemplo 01: Receba o salário de um funcionário. Mostre o salário do funcionário com reajuste de 15% (ex. 02)
-//void main: método pricipal, onde os comandos do código devem ficar para que ele seja executado
-/*Dá pra fazer comentário assim também (tinha esquecido)*/
-//Shift + F6 = atalho para rodar o programa
+//Exercício: Receba o salário de um funcionário. Mostre o salário do funcionário com reajuste de 15%
 
 import javax.swing.JOptionPane;
 public class exercicio02_simples {
